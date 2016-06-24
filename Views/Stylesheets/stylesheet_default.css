@@ -1,0 +1,21 @@
+.navbar-inverse{
+	color: #FFF;
+	background-color: #5CB85C;
+	border-color: #4CAE4C;
+}
+
+body , .col-md-4 > p , .col-md-4 > h2{
+	font-family: Verdana;
+}
+
+.body-content{
+	margin: 50px auto;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="select"] {
+    max-width: 280px;
+}
